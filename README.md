@@ -18,7 +18,7 @@ Schedule Page
 ![image](https://user-images.githubusercontent.com/122861868/214776191-bab1db1f-385e-4e02-9b55-251ef1651f9b.png)
 
 ## Challenge 2
-
+In this challenge, for the first part I reused quite a bit of the code from Tutorial 4 of Tech Assignment 2, especially the urlopen funcion used to populate a json file. Having three different functions for the 3 submission boxes for the 3 stocks, I then pulled the data such as Company Name, Industry, Sector, and Stock Price from the JSONs. After submission, I redirected to another page which had two forms, one which POSTed name and student id to the slidespace, and one which PUT to the slidespace.
 Stock Ticker Submission Page
 ![image](https://user-images.githubusercontent.com/122861868/214780191-cfa48267-d912-4a6c-8b0e-526c0a24c733.png)
 Page.html
