@@ -7,18 +7,20 @@ In Tutorial 2 I learned about how to incorporate forms into an HTML page
 In Tutorial 3 I learned about HTTP GET and POST requests, for example we created a GET route which displayed geisel library which was accesible by the route /library. Posting, which is necessary for users to send data to the server are necessary for the forms which I learned about in tutorial 2 to function, and then I learned about HTTP redirects which can be used to redirect the user to a different page after they submit their form for example
 
 In Tutorial 4 I learned about how to use HTML forms to interact with the financialmodelingprep api which can be used to return detailed information about stocks. The data_json variable holds this datam and it is a json data type
-
+<br>
 ## Challenge 1
 The backend of Challenge 1 (App.py) works pretty simply, with the GET requests preparing for three different instances, a request of case_studies.html , schedule.html, and index.html When these GET requests, mainly through the use of the hyperlinks on the pages used to navigate around, the server returns an HTML response with the appropriate file
+<br>
 Main Blog Page
 ![image](https://user-images.githubusercontent.com/122861868/214775725-618abfea-c7d5-4668-913e-244b458ddc37.png)
 Product Case Studies Page
 ![image](https://user-images.githubusercontent.com/122861868/214776042-6a8a410f-2d92-4ba3-b401-0d54cdbb08e4.png)
 Schedule Page
 ![image](https://user-images.githubusercontent.com/122861868/214776191-bab1db1f-385e-4e02-9b55-251ef1651f9b.png)
-
+<br>
 ## Challenge 2
 In this challenge, for the first part I reused quite a bit of the code from Tutorial 4 of Tech Assignment 2, especially the urlopen funcion used to populate a json file. Having three different functions for the 3 submission boxes for the 3 stocks, I then pulled the data such as Company Name, Industry, Sector, and Stock Price from the JSONs. After submission, I redirected to another page which had two forms, one which POSTed name and student id to the slidespace, and one which PUT to the slidespace.
+<br>
 Stock Ticker Submission Page
 ![image](https://user-images.githubusercontent.com/122861868/214780191-cfa48267-d912-4a6c-8b0e-526c0a24c733.png)
 Page.html
