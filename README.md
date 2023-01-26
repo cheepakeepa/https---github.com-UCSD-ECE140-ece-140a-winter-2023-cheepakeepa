@@ -22,4 +22,4 @@ Schedule Page
 Stock Ticker Submission Page
 ![image](https://user-images.githubusercontent.com/122861868/214780191-cfa48267-d912-4a6c-8b0e-526c0a24c733.png)
 Page.html
-![image](https://user-images.githubusercontent.com/122861868/214780410-f9e9b65d-f09f-4a7e-8565-b05fdab8c75a.png)
+![image](https://user-images.githubusercontent.com/122861868/214782506-6d162fdb-ff2d-4cc9-a913-a27c99f5a538.png)
